@@ -1,0 +1,39 @@
+h1{
+    font-family: "cursive",sans-serif;
+}
+nav>ul>li>a:hover{
+    color:blue;
+    background:hotpink;
+}
+a:visited{
+    background-color:red;
+    color:greenyellow
+}
+img{
+    width:500px;
+    height:400px
+}
+p{
+    font-family:"helvetica";
+}
+.gigiri>img{
+    float:left;
+    margin-left:50px;
+    display:flex;
+    padding:60px;
+   
+}
+.kasarani>img{
+    display:flex;
+    padding:60px;
+   
+    margin-top: 0;
+}
+.gigiri{
+    text-align:justify;
+    width:[width of image]
+}
+.kasarani{
+    text-align: justify;
+    width:[width of image]
+}
