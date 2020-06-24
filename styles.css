@@ -16,7 +16,7 @@ img{
 p{
     font-family:"helvetica";
 }
-.gigiri>img{
+/* .gigiri>img{
     float:left;
     margin-left:50px;
     display:flex;
@@ -36,4 +36,8 @@ p{
 .kasarani{
     text-align: justify;
     width:[width of image]
+} */
+#houses{
+    display:flex;
+    justify-content: space-around;
 }
