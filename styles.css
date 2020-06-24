@@ -10,17 +10,6 @@ a:visited{
     background-color:red;
     color:greenyellow
 }
-.top>ul>li{
-    float:left;
-}
-.top>ul>li>a{
-    display:block;
-    padding:10px;
-    background-color:blue ;
-}
-
-
-
 img{
     width:500px;
     height:400px
@@ -54,6 +43,8 @@ p{
     justify-content: space-around;
 }
 .bottom{
+
+   
     float:right;
-    margin-top: 0;
+
 }
