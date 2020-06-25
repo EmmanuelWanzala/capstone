@@ -73,3 +73,11 @@ footer{
 footer>ul>li{
     margin-left:40% ;
 }
+.addition{
+    display:flex;
+    justify-content: space-around;
+}
+.top>p{
+text-align: center;
+padding-top: 60px;
+}
