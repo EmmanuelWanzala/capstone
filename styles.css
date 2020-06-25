@@ -8,7 +8,7 @@ nav>ul>li>a:hover{
 }
 a:visited{
     background-color:red;
-    color:greenyellow
+    color:rgb(47, 78, 255)
 }
 img{
     width:500px;
@@ -42,9 +42,34 @@ p{
     display:flex;
     justify-content: space-around;
 }
+
 .bottom{
-
-   
     float:right;
-
+}
+.top{
+    background-image:url(images/download8.jpeg);
+    height:70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav ul li{
+    display:inline-block;
+    padding:10px;
+    float:right;
+}
+.zero{
+    text-align: center;
+}
+#video{
+    margin-left: 20%;
+}
+.bottom ul p{
+    text-align: center;
+}
+footer{
+    background-color: teal;
+    
+}
+footer>ul>li{
+    margin-left:40% ;
 }
