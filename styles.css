@@ -76,6 +76,7 @@ footer>ul>li{
 .addition{
     display:flex;
     justify-content: space-around;
+    padding-bottom: 90px;
 }
 .top>p{
 text-align: center;
